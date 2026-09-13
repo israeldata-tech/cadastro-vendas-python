@@ -1,5 +1,0 @@
-id,nome,idade,gastos
-1,  MARCOS SILVA  ,28, 1500.50
-2,linha_corrompida_invalida
-3,  ANA PAULA  ,texto_invalido, 800.00
-4,  LUCAS MENDES  ,35, 3200.00
