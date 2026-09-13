@@ -1,0 +1,6 @@
+id,item,categoria,valor,status
+101, fone bluetooth , eletronicos , 150.00 , pago
+102,linha_invalida
+103, cadeira gamer , moveis , 1200.00 , pago
+104, mouse sem fio , eletronicos , 80.00 , CANCELADO
+105, teclado mecanico , eletronicos , 350.00 , PAGO

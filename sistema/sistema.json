@@ -1,0 +1,14 @@
+[
+    {
+        "tarefa": "lavar casa",
+        "prioridade": "alta"
+    },
+    {
+        "tarefa": "carro",
+        "prioridade": "m\u00e9dia"
+    },
+    {
+        "tarefa": "cozinhar",
+        "prioridade": "baixa"
+    }
+]

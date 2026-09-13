@@ -1,0 +1,5 @@
+placa,modelo,quilometragem,revisado
+ABC1234, gol 1.0 , 45000.5 , sim
+XYZ9999,linha_corrompida_sem_dados
+DEF5678, uno mille , 120000.0 , nao
+GHI9012, corolla , 15000.0 , SIM

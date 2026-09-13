@@ -1,0 +1,4 @@
+codigo,item,preco,quantidade
+P1, TECLADO , 150.00 , 10
+P2, MOUSE , 50.00 , 0
+P3, MONITOR , 800.00 , 5
